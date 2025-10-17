@@ -108,5 +108,6 @@ Output:
 
 ## RESULT: 
 Thus, the 3D model is created from given isometric drawing.
+<img width="992" height="703" alt="EXP 2 2" src="https://github.com/user-attachments/assets/40cc0310-5c0b-490d-bbba-7122ad0e116d" />
 
 
